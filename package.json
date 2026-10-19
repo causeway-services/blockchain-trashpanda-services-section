@@ -51,5 +51,9 @@
     "@ethersproject/providers": {
       "ws": "8.21.1"
     }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/causeway-services/blockchain-trashpanda-services-section.git"
   }
 }
